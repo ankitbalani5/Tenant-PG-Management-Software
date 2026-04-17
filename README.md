@@ -23,8 +23,6 @@ A Flutter-based mobile application to manage Paying Guest (PG) accommodations in
 
 ---
 
-## 📸 Screenshots
-
 <h2>📸 App Screenshots</h2>
 
 <div align="center">
