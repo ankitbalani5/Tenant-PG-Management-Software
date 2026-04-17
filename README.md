@@ -25,12 +25,22 @@ A Flutter-based mobile application to manage Paying Guest (PG) accommodations in
 
 ## 📸 Screenshots
 
-<img width="720" height="1600" alt="tenent home page" src="https://github.com/user-attachments/assets/9c052603-deec-4255-9981-f95561823817" />
-<img width="720" height="1600" alt="shortlisted screen" src="https://github.com/user-attachments/assets/402a9669-e402-4ac6-9a3c-2ad9c98d9b12" />
-<img width="720" height="1600" alt="chat screen" src="https://github.com/user-attachments/assets/0d80b72f-4fac-4336-a6fc-8c154940f6e2" />
-<img width="720" height="1600" alt="receipts screen" src="https://github.com/user-attachments/assets/f9764ce1-b0b5-4499-9f35-eb426bcda138" />
-<img width="720" height="1600" alt="pg selection page" src="https://github.com/user-attachments/assets/8b4bde7c-36c4-4e1b-9afd-01eb04b1f694" />
-<img width="720" height="1600" alt="complain screen" src="https://github.com/user-attachments/assets/be0dddf6-794c-4629-9c07-6e1947d95081" />
+<h2>📸 App Screenshots</h2>
+
+<div align="center">
+
+<img src="https://github.com/user-attachments/assets/9c052603-deec-4255-9981-f95561823817" width="250"/>
+<img src="https://github.com/user-attachments/assets/402a9669-e402-4ac6-9a3c-2ad9c98d9b12" width="250"/>
+<img src="https://github.com/user-attachments/assets/0d80b72f-4fac-4336-a6fc-8c154940f6e2" width="250"/>
+
+<br/>
+
+<img src="https://github.com/user-attachments/assets/f9764ce1-b0b5-4499-9f35-eb426bcda138" width="250"/>
+<img src="https://github.com/user-attachments/assets/8b4bde7c-36c4-4e1b-9afd-01eb04b1f694" width="250"/>
+<img src="https://github.com/user-attachments/assets/be0dddf6-794c-4629-9c07-6e1947d95081" width="250"/>
+
+</div>
+
 
 
 ---
@@ -38,8 +48,8 @@ A Flutter-based mobile application to manage Paying Guest (PG) accommodations in
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/<your-username>/pg-management-system.git
-cd pg-management-system
+git clone https://github.com/ankitbalani5/Tenant-PG-Management-Software.git
+cd Tenant-PG-Management-Software
 flutter pub get
 flutter run
 ```
